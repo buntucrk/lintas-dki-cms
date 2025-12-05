@@ -1,5 +1,0 @@
-﻿// workers/scraper.ts - contoh worker sederhana (Node/ts)
-export async function scrape() {
-  // implementasi scraping di sini
-  console.log("Scraping placeholder");
-}

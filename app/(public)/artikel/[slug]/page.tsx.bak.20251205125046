@@ -1,6 +1,0 @@
-﻿import React from "react";
-
-export default function ArticlePage({ params }: { params: { slug: string } }) {
-  const { slug } = params;
-  return <div>Artikel: {slug}</div>;
-}

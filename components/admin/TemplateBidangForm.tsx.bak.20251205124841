@@ -1,5 +1,0 @@
-﻿import React from "react";
-
-export default function TemplateBidangForm() {
-  return <form>Form template bidang</form>;
-}

@@ -1,5 +1,0 @@
-﻿import React from "react";
-
-export default function Sidebar() {
-  return <nav>Sidebar admin links</nav>;
-}

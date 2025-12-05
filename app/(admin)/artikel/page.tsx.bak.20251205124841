@@ -1,5 +1,0 @@
-﻿import React from "react";
-
-export default function AdminArticleList() {
-  return <div>Daftar artikel (admin)</div>;
-}

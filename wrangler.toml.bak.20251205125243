@@ -1,4 +1,0 @@
-﻿name = "lintas-dki-worker"
-type = "javascript"
-account_id = "YOUR_ACCOUNT_ID"
-workers_dev = true

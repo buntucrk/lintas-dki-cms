@@ -1,5 +1,0 @@
-﻿import React from "react";
-
-export default function TemplateBidangPage() {
-  return <div>Template Bidang (admin)</div>;
-}
