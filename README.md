@@ -1,3 +1,2 @@
-﻿# lintas-dki-cms
-
-Scaffold proyek Lintas DKI — ganti file placeholder dengan kode asli Anda.
+﻿# Lintas DKI CMS
+Project scaffold — isi dengan dokumentasi proyek
