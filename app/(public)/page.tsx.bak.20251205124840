@@ -1,0 +1,5 @@
+﻿import React from "react";
+
+export default function PublicIndex() {
+  return <div>Halaman publik utama (search, listing, dsb.)</div>;
+}

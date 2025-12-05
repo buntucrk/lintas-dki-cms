@@ -1,0 +1,3 @@
+﻿export default function Page({ params }) {
+  return <div>Kategori: {params.slug}</div>;
+}

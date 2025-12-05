@@ -1,0 +1,5 @@
+﻿// lib/ai-client.ts - wrapper panggilan AI (placeholder)
+export async function generateText(prompt: string) {
+  // Panggil OpenAI / layanan lain di sini
+  return { text: "Generated text for: " + prompt };
+}

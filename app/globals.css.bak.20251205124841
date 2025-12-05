@@ -1,0 +1,4 @@
+﻿/* globals.css - tambahkan dasar Tailwind atau kustom style */
+@tailwind base;
+@tailwind components;
+@tailwind utilities;

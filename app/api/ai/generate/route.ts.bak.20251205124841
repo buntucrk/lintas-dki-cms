@@ -1,0 +1,8 @@
+﻿// route.ts - contoh endpoint generate AI
+import { NextResponse } from "next/server";
+
+export async function POST(request: Request) {
+  const body = await request.json();
+  // implementasikan panggilan ke ai-client.ts di lib/
+  return NextResponse.json({ ok: true, input: body });
+}

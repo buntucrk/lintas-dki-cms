@@ -1,0 +1,8 @@
+﻿import "./globals.css";
+import React from "react";
+
+export const metadata = { title: "Lintas DKI", description: "CMS Lintas DKI" };
+
+export default function RootLayout({ children }: { children: React.ReactNode }) {
+  return (<html lang="id"><body>{children}</body></html>);
+}
